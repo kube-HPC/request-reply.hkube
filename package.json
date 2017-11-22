@@ -1,6 +1,6 @@
 {
   "name": "request-reply.rf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "request reply based on producer-consumer.rf lib",
   "main": "index.js",
   "directories": {
